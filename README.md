@@ -1,2 +1,2 @@
 # Blade-Annihilation
-This is the first installment in our gory gut spraying  RPG game
+Note - all work on this project has been moved to the blade annihilation organization, I have deleted all files here so as not to cobfuse myself for being out of date
